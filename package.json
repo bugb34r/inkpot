@@ -1,0 +1,22 @@
+{
+    "publisher": "Ast3r0id",
+    "name": "inkpot",
+    "displayName": "inkpot",
+    "description": "inkpot theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "inkpot",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inkpot-color-theme.json"
+            }
+        ]
+    }
+}
